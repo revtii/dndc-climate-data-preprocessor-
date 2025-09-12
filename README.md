@@ -4,6 +4,7 @@ Streamlit pipeline for converting raw climate data files into DNDC-ready inputs,
 # Overview 
 This project provides a user-friendly **Streamlit-based data pipeline** for preprocessing meteorological data into DNDC-ready formats.  
 It was developed as part of **undergraduate research at UC Irvine**, supporting projects in atmospheric chemistry and sustainability.  
+<img width="2556" height="1239" alt="image" src="https://github.com/user-attachments/assets/5d082e32-d145-40ca-848a-5e9515a02371" />
 
 # Features 
  Upload raw meteorological datasets (e.g., NASA POWER CSVs)  

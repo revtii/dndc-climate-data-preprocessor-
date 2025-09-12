@@ -1,6 +1,8 @@
 # dndc-climate-data-preprocessor-
 Streamlit pipeline for converting raw climate data files into DNDC-ready inputs, developed during undergraduate research in atmospheric chemistry at UC Irvine.
 
+<img width="2556" height="1239" alt="Screenshot 2025-09-12 235354" src="https://github.com/user-attachments/assets/66a3da3f-dfb9-4c8c-ae72-32cb7584e733" />
+
 # Overview 
 This project provides a user-friendly **Streamlit-based data pipeline** for preprocessing meteorological data into DNDC-ready formats.  
 It was developed as part of **undergraduate research at UC Irvine**, supporting projects in atmospheric chemistry and sustainability.  
@@ -14,6 +16,8 @@ It was developed as part of **undergraduate research at UC Irvine**, supporting 
 - Visualize daily and seasonal trends of meteorological variables  
 - Download processed DNDC-ready files
 
+Try uploading a raw climate CSV to see it converted into a DNDC-ready file 
+https://dndc-climatedatappr.streamlit.app/
 
 # Research Content 
 Accurate climate inputs are essential for running the **DNDC (Denitrification-Decomposition) model**, which simulates soil carbon and nitrogen dynamics. This pipeline enables reproducible, standardized preprocessing for research on **atmosphere–soil interactions and air quality impacts**.  

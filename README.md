@@ -19,7 +19,7 @@ Try uploading a raw climate CSV to see it converted into a DNDC-ready file
 https://dndc-climatedatappr.streamlit.app/
 
 # Research Context 
-Accurate climate inputs are essential for running the **DNDC (Denitrification-Decomposition) model**, which simulates soil carbon and nitrogen dynamics. This pipeline enables reproducible, standardized preprocessing for research on **atmosphere–soil interactions and air quality impacts**.  
+Accurate climate inputs are essential for running the **DNDC (Denitrification-Decomposition) model**, which stimulates soil carbon and nitrogen dynamics. This pipeline enables reproducible, standardized preprocessing for research on **atmosphere–soil interactions and air quality impacts**.  
 
 # Tech Stack
 - **Languages**: Python  
